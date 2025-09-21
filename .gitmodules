@@ -1,0 +1,15 @@
+[submodule "chat-server/external/crow"]
+	path = chat-server/external/crow
+	url = https://github.com/CrowCpp/crow.git
+[submodule "chat-server/external/sqlite_modern_cpp"]
+	path = chat-server/external/sqlite_modern_cpp
+	url = https://github.com/SqliteModernCpp/sqlite_modern_cpp.git
+[submodule "chat-server/external/json"]
+	path = chat-server/external/json
+	url = https://github.com/nlohmann/json.git
+[submodule "chat-server/external/asio"]
+	path = chat-server/external/asio
+	url = https://github.com/chriskohlhoff/asio.git
+[submodule "chat-server/external/libpqxx"]
+	path = chat-server/external/libpqxx
+	url = https://github.com/jtv/libpqxx.git
