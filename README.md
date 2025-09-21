@@ -9,7 +9,14 @@ Atualizar e baixar o conteúdo dos submódulos
     ou
 
     git clone --recurse-submodules https://github.com/GuilhermeRossiKirsten/CppTalk.git
+
+    sudo apt install build-essential
+    sudo apt install pkg-config postgresql libpq-dev
+
+    
 ```
+
+
 
 git submodule add --force https://github.com/CrowCpp/crow.git chat-server/external/crow
 git submodule add --force https://github.com/SqliteModernCpp/sqlite_modern_cpp.git chat-server/external/sqlite_modern_cpp
